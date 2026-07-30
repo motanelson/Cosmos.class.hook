@@ -1,3 +1,3 @@
-decompiles a .js file compile
+normal box class function hook
 
 
