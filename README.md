@@ -1,3 +1,3 @@
-normal box class function hook
+Cosmos gen2 class hook
 
 
