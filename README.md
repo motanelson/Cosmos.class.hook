@@ -1,3 +1,3 @@
-Cosmos gen2 class hook
+Cosmos gen3 class hook
 
 
